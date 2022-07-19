@@ -46,9 +46,28 @@
     font-weight:500;
 }
 
+.p-remarks {
+    font-size: 18px;
+    text-align: left;
+    padding-left:15px;
+    font-weight: bold;
+}
+
+.p-remark {
+    display: list-item;          
+    list-style-type: disc;       
+    list-style-position: inside;
+    font-weight:500;
+}
+
+
 .p-about {
     font-size: 18px;
     padding-left: 10px;
+}
+
+.certificates {    
+    margin-top: 20px;
 }
 
 @media screen and (max-width: 480px) {

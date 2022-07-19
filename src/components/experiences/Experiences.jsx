@@ -20,8 +20,12 @@ const Experiences = () => {
       "Integrated payment capturing system using Razorpay with feature to split the amount among the company and the trainers.",
       "Designed and created admin panel from scratch."
     ],
-    remarks:"Worked in a startup-environment. Provided opportunity to lead the backend team.",
-    certificate:"https://drive.google.com/file/d/1wG-_Fq7hlypn_-Pj6glOVKhl_CegOV5d/view?usp=sharing"
+    remarks:[
+      "Worked in a startup-environment.",
+      "Provided opportunity to lead the backend team."
+    ],
+    certificate:"https://drive.google.com/file/d/1wG-_Fq7hlypn_-Pj6glOVKhl_CegOV5d/view?usp=sharing",
+    lor:""
   }
 
   const we2 = {
@@ -39,8 +43,12 @@ const Experiences = () => {
       "Worked on frontend features to improve user experience.",
       "Worked on LDP-v1 simultaneously to add more features and included standard debugging."
     ],
-    remarks:"Worked with real world client data and learnt about creating robust backend in web-app along with sensitive handling of data. Was awarded an extension in the internship from the given contract period.",
-    certificate:"https://drive.google.com/file/d/1FUQL-ErMaF47uHncqLJSTP0jgUpWqsrW/view?usp=sharing"
+    remarks:[
+      "Worked with real world client data and learnt about creating robust backend in web-app along with sensitive handling of data.",
+      "Was awarded an extension in the internship from the given contract period."
+    ],
+    certificate:"https://drive.google.com/file/d/1FUQL-ErMaF47uHncqLJSTP0jgUpWqsrW/view?usp=sharing",
+    lor:"https://drive.google.com/file/d/17zses3vqK4s4jz09_dPmGJGmofgK8PP_/view?usp=sharing"
   }
 
   return (

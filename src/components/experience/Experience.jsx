@@ -28,7 +28,18 @@ const Experience = (props) => {
             )
           })}
         </div>
-        {props.we.certificate!="" && <a href={props.we.certificate} target="_blank" title="Click here to view certificate of completion"><Certificate/></a>}
+        <div className="p-remarks">
+          <strong>Remarks - </strong>
+			{props.we.remarks.map((item)=>{
+				return (
+				<div key={item} className="p-remark">{item}</div>
+				)
+			})}
+        </div>
+		<div className="certificates">
+			{props.we.certificate!=="" && <a href={props.we.certificate} target="_blank" rel="noreferrer" title="Certificate of Completion"><Certificate/></a>}
+			{props.we.lor!=="" && <a href={props.we.lor} target="_blank" rel="noreferrer" title="Letter of Recommendation"><Certificate/></a>}
+		</div>
     </div>
   )
 }

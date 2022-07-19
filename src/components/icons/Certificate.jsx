@@ -1,9 +1,9 @@
 import React from 'react';
-import { FaCertificate } from "react-icons/fa";
+import { GrCertificate } from "react-icons/gr";
 
 const Certificate = () => {
   return (
-    <div className='icons'><FaCertificate size="40px"/></div>
+    <div className='icons'><GrCertificate size="40px"/></div>
   )
 }
 

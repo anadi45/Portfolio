@@ -31,10 +31,10 @@ const Project = (props) => {
         </div>
         <div className="proj-sites">
           <span className="proj-link">
-            {props.pro.live!="" && <a href={props.pro.live} target="_blank" title="Click here to see the live website"><Website/></a>}
+            {props.pro.live!=="" && <a href={props.pro.live} target="_blank" rel="noreferrer" title="Deployed Website"><Website/></a>}
           </span>
           <span className="proj-github">
-          {props.pro.github!="" && <a href={props.pro.github} target="_blank" title="Click here to see the source code"><Github/></a>}
+          {props.pro.github!=="" && <a href={props.pro.github} target="_blank" rel="noreferrer" title="Source Code"><Github/></a>}
           </span>
         </div>
     </div>

@@ -33,7 +33,7 @@ const Intro = () => {
       </div>
       <div className="i-right">
         <div className="i-bg"></div>
-        <img src={Me} className="i-img" alt="Unable to load the image"/>
+        <img src={Me} className="i-img" alt="Unable to load."/>
       </div>
     </div>
   )
