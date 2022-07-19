@@ -20,23 +20,27 @@ const Experiences = () => {
       "Integrated payment capturing system using Razorpay with feature to split the amount among the company and the trainers.",
       "Designed and created admin panel from scratch."
     ],
-    remarks:"Worked in a startup-environment.",
-    certificate:"https://drive.google.com/file/d/1MP2dK4DXzNjlMgqTjPXN1Pi3WihZiPn_/view"
+    remarks:"Worked in a startup-environment. Provided opportunity to lead the backend team.",
+    certificate:"https://drive.google.com/file/d/1wG-_Fq7hlypn_-Pj6glOVKhl_CegOV5d/view?usp=sharing"
   }
 
   const we2 = {
     title:"Webghat LLC",
     startDate:"May 2022",
-    endDate:"Present",
+    endDate:"July 2022",
     location:"Remote",
-    designation:"Javascript Developer Intern",
+    designation:"Backend Developer Intern",
     about:"A Chicago based company which helps small businesses to create an online presence and provides lead generation services.",
     work:[
+      "Developing new backend logic for upgrading existing LDP platform into a new one.",
       "Using chart.js created different plots for clients to provide them sufficient analytics.",
-      "Created a dynamic database schema to store user details depending on their specified roles."
+      "Created a dynamic database schema to store user details depending on their specified roles.",
+      "Created CRUD features which included mapping between different database models simultaneously",
+      "Worked on frontend features to improve user experience.",
+      "Worked on LDP-v1 simultaneously to add more features and included standard debugging."
     ],
-    remarks:"Worked with real world client data and learnt about creating robust backend in web-app along with sensitive handling of data.",
-    certificate:""
+    remarks:"Worked with real world client data and learnt about creating robust backend in web-app along with sensitive handling of data. Was awarded an extension in the internship from the given contract period.",
+    certificate:"https://drive.google.com/file/d/1FUQL-ErMaF47uHncqLJSTP0jgUpWqsrW/view?usp=sharing"
   }
 
   return (
