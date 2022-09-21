@@ -73,6 +73,30 @@ const Projects = () => {
     github:"https://github.com/anadi45/DocumentScanner"
   }
 
+  const pro4 = {
+    title:"Imcrypt",
+    startDate:"June 2022",
+    endDate:"August 2022",
+    techStack:[
+      "OpenCV",
+      "Javascript",
+      "Node.js",
+      "Express",
+      "Python",
+      "File-System",
+      "React.js",
+      "Child-Process",
+      "Image Steganography"
+    ],
+    details:[
+      "App which enables users to encode their secret information inside an image and later on decode the image.",
+      "Works for PNG format.",
+      "Message encryption and decryption."
+    ],
+    live:"https://anadi45-imcrypt.herokuapp.com/",
+    github:"https://github.com/anadi45/Imcrypt"
+  }
+
   return (
     <div className="pro">
         <div className="pro-texts">
@@ -83,6 +107,7 @@ const Projects = () => {
             <Project pro={pro1}/>
             <Project pro={pro2}/>
             <Project pro={pro3}/>
+            <Project pro={pro4}/>
         </div>
     </div>
   )
