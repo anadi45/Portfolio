@@ -29,7 +29,7 @@ const About = () => {
             </p>
             <p className="a-desc">
                 <p className="a-field">
-                    B.Tech in Information Technology (2019 - Present) - 8.4 CGPA 
+                    B.Tech in Information Technology (2019 - Present) - 8.37 CGPA 
                 </p>
             </p>
         </div>
