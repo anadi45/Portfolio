@@ -22,7 +22,7 @@ const Experiences = () => {
     ],
     remarks:[
       "Worked in a startup-environment.",
-      "Provided opportunity to lead the backend team."
+      "Got opportunity to lead the backend team."
     ],
     certificate:"https://drive.google.com/file/d/1wG-_Fq7hlypn_-Pj6glOVKhl_CegOV5d/view?usp=sharing",
     lor:""
