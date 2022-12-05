@@ -39,4 +39,8 @@
     .pro-desc {
         display:none;
     }
+
+    .pro-list {
+        display: grid;
+    }
 }

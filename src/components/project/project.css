@@ -62,5 +62,6 @@
 @media screen and (max-width: 480px) {
     .proj{
         flex-direction: row;
+        width: fit-content;
     }
 }

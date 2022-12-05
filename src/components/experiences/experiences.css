@@ -39,4 +39,8 @@
     .pl-desc {
         display:none;
     }
+
+    .pl-list {
+        display: grid;
+    }
 }
