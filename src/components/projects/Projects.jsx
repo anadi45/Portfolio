@@ -22,11 +22,11 @@ const Projects = () => {
       "REST API"
     ],
     details:[
-      "Helps in keeping track of all expenses and total budget to make spending in control",
+      "Helps in keeping track of all expenses and total budget to make spending in control.",
       "MVC architecture implemented.",
-      "User-login system added using jwt token authentication",
+      "User-login system added using jwt token authentication.",
       "Pie-chart visualization of expenses using chart.js",
-      "Password encryption using bcrypt.js",
+      "Password encryption using bcrypt.js.",
       "MongoDB Atlas used as cloud database."
     ],
     live:"https://anadi45-expense-manager.herokuapp.com",
@@ -65,9 +65,9 @@ const Projects = () => {
       "Image Dilation"
     ],
     details:[
-      "OpenCV and C++ used to scan an image and detect document from the image",
-      "Displays the Top view/Bird’s eye view of the image",
-      "Concepts of Image Dilation, Contour Detections and Warp Perspective implemented in the project"
+      "OpenCV and C++ used to scan an image and detect document from the image.",
+      "Displays the Top view/Bird’s eye view of the image.",
+      "Concepts of Image Dilation, Contour Detections and Warp Perspective implemented in the project."
     ],
     live:"",
     github:"https://github.com/anadi45/DocumentScanner"

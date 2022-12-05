@@ -15,14 +15,15 @@ const Experiences = () => {
       "Created an OTP mailing system using google OAuth2.",
       "Created model and controller for trainers which takes care of all trainer related functionalities in the website.",
       "Using multer package implemented file uploading and saving function in the server.",
-      "Designed database schema to enable posting of comments in all articles",
+      "Designed database schema to enable posting of comments in all articles.",
       "Implemented order controller and booking controller for placing orders and enrolling in programs.",
       "Integrated payment capturing system using Razorpay with feature to split the amount among the company and the trainers.",
-      "Designed and created admin panel from scratch."
+      "Designed and created admin panel."
     ],
     remarks:[
       "Worked in a startup-environment.",
-      "Got opportunity to lead the backend team."
+      "Got the experience of ownership of the product."
+      // "Got opportunity to lead the backend team."
     ],
     certificate:"https://drive.google.com/file/d/1wG-_Fq7hlypn_-Pj6glOVKhl_CegOV5d/view?usp=sharing",
     lor:""
@@ -39,13 +40,13 @@ const Experiences = () => {
       "Developing new backend logic for upgrading existing LDP platform into a new one.",
       "Using chart.js created different plots for clients to provide them sufficient analytics.",
       "Created a dynamic database schema to store user details depending on their specified roles.",
-      "Created CRUD features which included mapping between different database models simultaneously",
+      "Created CRUD features which included mapping between different database models simultaneously.",
       "Worked on frontend features to improve user experience.",
       "Worked on LDP-v1 simultaneously to add more features and included standard debugging."
     ],
     remarks:[
-      "Worked with real world client data and learnt about creating robust backend in web-app along with sensitive handling of data.",
-      "Was awarded an extension in the internship from the given contract period."
+      "Worked with real world client data and learnt about creating robust backend in web-app."
+      // "Was awarded an extension in the internship from the given contract period."
     ],
     certificate:"https://drive.google.com/file/d/1FUQL-ErMaF47uHncqLJSTP0jgUpWqsrW/view?usp=sharing",
     lor:"https://drive.google.com/file/d/17zses3vqK4s4jz09_dPmGJGmofgK8PP_/view?usp=sharing"
