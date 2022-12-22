@@ -13,12 +13,12 @@ const Experiences = () => {
     about:"A Dehradun based early startup which enables users to buy fitness supplements along with the feature to enroll in its training programs by well certified trainers and post blogs related to healthy lifestyle.",
     work:[
       "Created an OTP mailing system using google OAuth2.",
-      "Created model and controller for trainers which takes care of all trainer related functionalities in the website.",
-      "Using multer package implemented file uploading and saving function in the server.",
+      "Created mongoose model and controller for trainers which takes care of all trainer related functionalities in the website.",
+      "Using multer package created a middleware for image uploading and saving function in the server.",
       "Designed database schema to enable posting of comments in all articles.",
       "Implemented order controller and booking controller for placing orders and enrolling in programs.",
       "Integrated payment capturing system using Razorpay with feature to split the amount among the company and the trainers.",
-      "Designed and created admin panel."
+      "Part of team working on creation of admin panel."
     ],
     remarks:[
       "Worked in a startup-environment.",
@@ -38,7 +38,7 @@ const Experiences = () => {
     about:"A Chicago based company which helps small businesses to create an online presence and provides lead generation services.",
     work:[
       "Developing new backend logic for upgrading existing LDP platform into a new one.",
-      "Using chart.js created different plots for clients to provide them sufficient analytics.",
+      "Using chart.js created different data visualizations for analytics.",
       "Created a dynamic database schema to store user details depending on their specified roles.",
       "Created CRUD features which included mapping between different database models simultaneously.",
       "Worked on frontend features to improve user experience.",

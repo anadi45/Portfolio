@@ -29,7 +29,7 @@ const Projects = () => {
       "Password encryption using bcrypt.js.",
       "MongoDB Atlas used as cloud database."
     ],
-    live:"https://anadi45-expense-manager.herokuapp.com",
+    live:"https://ranjeetbaraik-expense-manager.onrender.com",
     github:"https://github.com/anadi45/ExpenseManager"
   }
 
@@ -104,10 +104,10 @@ const Projects = () => {
             <p className="pro-desc"></p>
         </div>
         <div className="pro-list">
-            <Project pro={pro1}/>
-            <Project pro={pro2}/>
-            <Project pro={pro3}/>
             <Project pro={pro4}/>
+            <Project pro={pro1}/>
+            <Project pro={pro3}/>
+            <Project pro={pro2}/>
         </div>
     </div>
   )
